@@ -7,7 +7,7 @@ This document summarizes a network packet capture analysis from a file named `ht
 - **Source IP**: `192.168.80.136` (Client machine)
 - **Time Range**: 0.000000 to 23.934554 seconds
 - **Total Frames**: 307 packets
-- **Capture Size**: Multi-page comprehensive network trace
+- **Capture Size**: Multi-page comprehensive network trace    
 
 ## 🌐 Protocols Observed
 | Protocol | Usage | Purpose |
