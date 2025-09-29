@@ -2,7 +2,7 @@
 
 ## 📁 Project Overview
 This document summarizes a network packet capture analysis from a file named `http_dns_tcp_capture.pdf`. The capture shows network traffic between a client machine and various web services, primarily Mozilla and Google domains.
-
+                                  
 ## 🔍 Capture Details
 - **Source IP**: `192.168.80.136` (Client machine)
 - **Time Range**: 0.000000 to 23.934554 seconds
